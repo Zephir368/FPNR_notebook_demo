@@ -1,1 +1,1 @@
-# FPNR_notebook_demo
+# FPNR notebook demo
